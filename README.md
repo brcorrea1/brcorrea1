@@ -2,7 +2,7 @@
 
 **Full-stack Developer | Building Modern Web Applications**
 
-Desenvolvedor focado no ecossistema JavaScript, com ênfase em criar soluções funcionais e interfaces de alta performance. Atualmente, dedico minha atuação ao desenvolvimento de aplicações ponta a ponta, unindo front-ends responsivos a arquiteturas de backend escaláveis. Busco constantemente aplicar as melhores práticas de Clean Code e versionamento para entregar software de qualidade profissional.
+Desenvolvedor focado no ecossistema JavaScript, com ênfase em criar soluções funcionais e interfaces de alta performance.
 
 ---
 
@@ -24,8 +24,7 @@ Desenvolvedor focado no ecossistema JavaScript, com ênfase em criar soluções 
 * Implementação de sistemas de autenticação e persistência de dados.
 
 ### 📫 Reach me
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **Email:** [seu-email@exemplo.com]
-* **GitHub:** [Seu Usuário]
+* **LinkedIn:** [https://www.linkedin.com/in/bruno-corr%C3%AAa-257623203/]
+* **Email:** [brncorrea2@gmail.com]
 
 ---
