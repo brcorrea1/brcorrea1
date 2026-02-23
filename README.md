@@ -1,4 +1,4 @@
-# Hi, I'm [Bruno] 🚀
+# Hi, I'm Bruno 🚀
 
 **Full-stack Developer | Building Modern Web Applications**
 
