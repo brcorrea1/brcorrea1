@@ -1,30 +1,21 @@
 # Hi, I'm Bruno 🚀
 
-**Full-stack Developer | Building Modern Web Applications**
+**Full-stack Developer | JavaScript & Modern Web Apps**
 
-Desenvolvedor focado no ecossistema JavaScript, com ênfase em criar soluções funcionais e interfaces de alta performance.
-
----
-
-### 🔭 Areas of Expertise & Focus
-* **Frontend:** Desenvolvimento de interfaces modernas e reativas com React.js e ecossistema CSS (Tailwind).
-* **Backend:** Construção de APIs REST robustas utilizando Node.js e integração com bancos de dados.
-* **Architecture:** Foco em escalabilidade, autenticação segura e performance de renderização.
-* **Collaboration:** Experiência com Git/GitHub e fluxos de trabalho ágeis.
-
-### 🛠 Tech Stack
-* **Languages:** JavaScript (ES6+), TypeScript.
-* **Frontend:** React, Next.js, Tailwind CSS, Shadcn/ui.
-* **Backend:** Node.js, Express, REST APIs.
-* **Database & Tools:** PostgreSQL, Supabase, Git, Docker, VS Code.
-
-### 🎯 Professional Goals
-* Desenvolvimento de produtos digitais end-to-end.
-* Otimização de performance e SEO em aplicações web.
-* Implementação de sistemas de autenticação e persistência de dados.
-
-### 📫 Reach me
-* **LinkedIn:** [https://www.linkedin.com/in/bruno-corr%C3%AAa-257623203/]
-* **Email:** [brncorrea2@gmail.com]
+Desenvolvedor focado em soluções funcionais e interfaces de alta performance com o ecossistema JavaScript.
 
 ---
+
+### 🔹 Skills
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, REST APIs  
+- **Database & Tools:** PostgreSQL, Supabase, Git, Docker  
+
+### 🎯 Goals
+- Construir produtos digitais end-to-end  
+- Otimizar performance e SEO  
+- Implementar autenticação segura e persistência de dados  
+
+### 📫 Contact
+- **LinkedIn:** [https://www.linkedin.com/in/bruno-corr%C3%AAa-257623203/](https://www.linkedin.com/in/bruno-corr%C3%AAa-257623203/)  
+- **Email:** brncorrea2@gmail.com
